@@ -5,6 +5,8 @@ Discord RPG Bot!!!!1!
 Overview
 ========
 
+Live stream of coding this bot: https://www.youtube.com/watch?v=L10FeA84EgE
+
 A cool rpg bot.
 
 MySQL database schema is in ``database_schema.mysql``.
